@@ -27,4 +27,4 @@ Este projeto é uma atividade prática da disciplina **Fundamentos da Programaç
 
 **Leandro Correa da Maia**  
 Estudante de Análise e Desenvolvimento de Sistemas - UNINTER  
-Link :https://leandrozaze25.github.io/portf-lio-pessoal/
+Link :https://leandrozaze25.github.io/portfolio-pessoal/
