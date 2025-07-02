@@ -1,4 +1,4 @@
-# Portfólio Pessoal - Leandro Corrêa da Maia
+# Portfólio Pessoal - Leandro Correa da Maia
 
 Este projeto é uma atividade prática da disciplina **Fundamentos da Programação Web**, com o objetivo de desenvolver um site pessoal utilizando HTML e CSS puros, sem o uso de frameworks.
 
