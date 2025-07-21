@@ -16,12 +16,6 @@ Este projeto é uma atividade prática da disciplina **Fundamentos da Programaç
 - HTML5
 - CSS3
 
-## 🚫 Regras atendidas
-
-- Não foi utilizado Bootstrap ou frameworks externos.
-- Comentários adicionados ao código de forma clara e objetiva.
-- Menu de navegação presente em todas as páginas.
-- Site publicado em hospedagem gratuita (GitHub Pages).
 
 ## 👨‍💻 Autor
 
